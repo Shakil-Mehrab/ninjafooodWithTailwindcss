@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-100;
+}
+
+// .abc {
+//   @apply flex justify-end ml-auto;
+// }
+
+
